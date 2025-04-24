@@ -3,6 +3,10 @@
 Welcome to the Data Warehouse and Analytics Project repository! 🚀
 This project demonstrates a comprehensive data warehousing and analytics solution, from building a data warehouse to generating actionable insights. Designed as a portfolio project, it highlights industry best practices in data engineering and analytics.
 
+
+<div style="writing-mode: vertical-rl; transform: rotate(180deg); float: left; margin-right: 10px; padding: 10px; background-color: #f0f0f0; border-radius: 5px;">
+Note: This project was created following the excellent tutorial by Data With Baraa. 
+</div>
 ---
 ## 🏗️ Data Architecture
 The data architecture for this project follows Medallion Architecture Bronze, Silver, and Gold layers:
